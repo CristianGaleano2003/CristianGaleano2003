@@ -1,5 +1,4 @@
-# <image src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZqNTA2bHBjd29vajFjaWoxNmRpeDZxaXZsNXkxcmw2aXpzNGk1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fuPvbg3qkZKJJeTI73/giphy.gif" width= 100px height=100px> 
-# Hi there, I'm Cristian 
+# <image src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZqNTA2bHBjd29vajFjaWoxNmRpeDZxaXZsNXkxcmw2aXpzNGk1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fuPvbg3qkZKJJeTI73/giphy.gif" width= 100px height=100px> Hi there, I'm Cristian 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-galeano-diaz-analista-datos/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://cristiangaleano2003.github.io/)
